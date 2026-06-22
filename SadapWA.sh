@@ -1,7 +1,5 @@
 #SadapWA
-#Coded by. MiSetya
-#Jangan recode ngentod!!
-#mau recode izin 0823-8623-4828
+#Coded by. Bara Official
 
 clear
 bi='\033[34;1m' #biru
@@ -14,7 +12,7 @@ ku='\033[33;1m' #kuning
 
 echo $cy"<|=======================================|>"
 echo $cy "||     $i Sadap WhatsApp Version 2.0     $cy||"
-echo $cy "||     $i Author: MiSetya                $cy||"
+echo $cy "||     $i Author: Bara Official              $cy||"
 echo $cy "||     $i Team  : Light Cyber Indonesia  $cy||"
 echo $cy"<|=======================================|>"
 echo
